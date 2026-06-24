@@ -1,5 +1,12 @@
 # Sistem Antrian Rumah Sakit
 
+Nama : Aqeela Bilqis
+
+Mata Kuliah : Struktur Data
+
+Proyek : Sistem Antrian Rumah Sakit Menggunakan Queue dan Hash Map
+
+
 ## Deskripsi
 Program ini merupakan aplikasi sederhana berbasis Python untuk mengelola sistem antrian pasien di rumah sakit. Data pasien disimpan dalam file CSV sehingga tetap tersimpan meskipun program ditutup.
 
@@ -80,12 +87,5 @@ Program akan membuat file tersebut secara otomatis apabila belum tersedia.
 
 Seluruh library di atas merupakan library bawaan Python sehingga tidak perlu melakukan instalasi tambahan.
 
-## Penulis
-
-Nama : Aqeela Bilqis
-
-Mata Kuliah : Struktur Data
-
-Proyek : Sistem Antrian Rumah Sakit Menggunakan Queue dan Hash Map
 
 ![Flowchart](flowchart.png.png)
