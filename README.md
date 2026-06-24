@@ -23,11 +23,13 @@ Program ini merupakan aplikasi sederhana berbasis Python untuk mengelola sistem 
 ## File Program
 
 ```
-project/
+UAS struktur_aqeela_25416255201042_if25b/
 │
-├── main.py
+├── antrian_rumah_sakit.py
 ├── data_pasien.csv
-└── README.md
+├── README.md
+└── flowchart.png.png
+
 ```
 
 ## Cara Menjalankan Program
