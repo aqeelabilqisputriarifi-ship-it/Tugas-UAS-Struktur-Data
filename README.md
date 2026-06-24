@@ -85,3 +85,5 @@ Nama : Aqeela Bilqis
 Mata Kuliah : Struktur Data
 
 Proyek : Sistem Antrian Rumah Sakit Menggunakan Queue dan Hash Map
+
+![Flowchart](flowchart.png.png)
