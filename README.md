@@ -4,6 +4,10 @@ Nama : Aqeela Bilqis
 
 Mata Kuliah : Struktur Data
 
+NIM : 25416255201042
+
+Kelas : IF25B
+
 Proyek : Sistem Antrian Rumah Sakit Menggunakan Queue dan Hash Map
 
 
